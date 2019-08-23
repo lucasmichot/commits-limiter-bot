@@ -1,0 +1,16 @@
+{
+    "action": "opened",
+    "number": 1,
+    "pull_request": {
+        "head": {
+            "sha": "b526f213fc877485386765863ce4b2f6d6962080"
+        },
+        "commits": 5
+    },
+    "repository": {
+        "name": "the-repository-name",
+        "owner": {
+            "login": "the-repository-owner-login"
+        }
+    }
+}

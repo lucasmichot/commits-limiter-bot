@@ -1,0 +1,16 @@
+{
+    "action": "synchronize",
+    "number": 1,
+    "pull_request": {
+        "head": {
+            "sha": "7fbfe5d991628cec3215cd05f790df7017209ecb"
+        },
+        "commits": 6
+    },
+    "repository": {
+        "name": "the-repository-name",
+        "owner": {
+            "login": "the-repository-owner-login"
+        }
+    }
+}
